@@ -1,0 +1,39 @@
+[
+    {
+        "url": "https://apple.com/",
+        "questions": [
+            "Should I buy a Mac or iPad for college?",
+            "What are the latest Apple products available?",
+            "What are the different ways to purchase an Apple product?",
+            "What are the benefits of subscribing to Apple services?",
+            "What are the key features of the new Mac models?",
+            "How can I get the most out of my new Mac?",
+            "What are the current promotions available for iPad and Mac purchases?",
+            "What are the benefits of using an iPad for learning and productivity?",
+            "What are the main features of the iPhone 15 Pro?",
+            "How does iPhone protect user privacy?"
+        ],
+        "relevant_links": [
+            {
+                "link": "https://apple.com/",
+                "title": "Apple"
+            },
+            {
+                "link": "https://apple.com/us/shop/goto/store",
+                "title": "Apple Store Online - Apple"
+            },
+            {
+                "link": "https://apple.com/mac/",
+                "title": "Mac - Apple"
+            },
+            {
+                "link": "https://apple.com/ipad/",
+                "title": "iPad - Apple"
+            },
+            {
+                "link": "https://apple.com/iphone/",
+                "title": "iPhone - Apple"
+            }
+        ]
+    }
+]

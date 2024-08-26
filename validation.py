@@ -17,10 +17,10 @@ schema = {
             "items": {
                 "type": "object",
                 "properties": {
-                    "url": {"type": "string"},
+                    "link": {"type": "string"},
                     "title": {"type": "string"}
                 },
-                "required": ["url", "title"]
+                "required": ["link", "title"]
             },
             "minItems": 5,
             "maxItems": 5
